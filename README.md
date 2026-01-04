@@ -67,7 +67,8 @@ Authentication events
 Navigation
 
 Navbar adapts based on authentication state
-
+Live:
+https://green-nest-6e0f2.web.app/
 Links to:
 
 Home
